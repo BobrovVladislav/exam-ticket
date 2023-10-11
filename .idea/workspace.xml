@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fcb5268-113a-4060-b6e4-cb063e8ac1f4" name="Changes" comment="added generation tickets" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VzpCtRtCrllsEZw2BWSbgTOYVg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/programming/exam-ticket",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\programming\exam-ticket\front\src\assets" />
+      <recent name="C:\programming\exam-ticket\back" />
+      <recent name="C:\programming\exam-ticket\front\src\css\addingData" />
+      <recent name="C:\programming\exam-ticket\front\src\shared" />
+      <recent name="C:\programming\exam-ticket\front\src\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/front/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fcb5268-113a-4060-b6e4-cb063e8ac1f4" name="Changes" comment="" />
+      <created>1695848644508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695848644508</updated>
+      <workItem from="1695848647769" duration="917000" />
+      <workItem from="1695849611696" duration="33000" />
+      <workItem from="1695926942774" duration="11539000" />
+      <workItem from="1695989465814" duration="24567000" />
+      <workItem from="1696021651886" duration="9264000" />
+      <workItem from="1696266377410" duration="14534000" />
+      <workItem from="1696335278497" duration="1227000" />
+      <workItem from="1696338375320" duration="7123000" />
+      <workItem from="1696350544641" duration="4993000" />
+      <workItem from="1696421167226" duration="6720000" />
+      <workItem from="1696443264778" duration="1277000" />
+      <workItem from="1696454001634" duration="1407000" />
+      <workItem from="1696487840423" duration="607000" />
+      <workItem from="1696614337971" duration="11366000" />
+      <workItem from="1696867812898" duration="611000" />
+      <workItem from="1697045944818" duration="5618000" />
+      <workItem from="1697057677729" duration="1091000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add view ticket">
+      <created>1696003216198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696003216199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added re-use of ticketList + ticket update">
+      <created>1696031128154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696031128154</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added generation tickets">
+      <created>1697057555124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697057555124</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/front" />
+    </ignored-roots>
+    <MESSAGE value="Add view ticket" />
+    <MESSAGE value="added re-use of ticketList + ticket update" />
+    <MESSAGE value="added generation tickets" />
+    <option name="LAST_COMMIT_MESSAGE" value="added generation tickets" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

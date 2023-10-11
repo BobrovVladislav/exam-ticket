@@ -1,0 +1,73 @@
+.main__block__text {
+  font: bold calc(calc(1vw + 1vh) * 1.25) 'Inter', sans-serif;
+  margin-top: calc(1vw + 1vh);
+  margin-left: 5%;
+  color: rgba(64, 93, 145, 1);
+  margin-bottom: 25px;
+}
+
+ul, li {
+  list-style:none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.main__block__no-ticket {
+  display: flex;
+  height: 370px;
+  justify-content: center;
+  align-items: center;
+}
+
+.ticket {
+  display: flex;
+  margin-bottom: 10px;
+}
+.ticket:hover {
+  background: #e1e1e1;
+  border: 1px solid #d0d0d0;
+}
+
+.ticket__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: black;
+}
+
+.ticket__name {
+  font-size: calc(calc(0.9vw + 0.9vh) * 1.25);
+  margin-bottom: 10px;
+}
+.ticket__text {
+  font-size: calc(calc(0.6vw + 0.6vh) * 1.25);
+  margin-bottom: 5px;
+}
+.ticket__subject{
+  font-size: calc(calc(0.7vw + 0.7vh) * 1.25);
+  margin-bottom: 10px;
+}
+
+.ticket__image {
+  width: inherit;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination button {
+  margin: 5px;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.pagination button.active {
+  background-color: rgba(64, 93, 145, 1);
+  color: #fff;
+}

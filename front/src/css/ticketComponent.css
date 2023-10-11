@@ -1,0 +1,66 @@
+
+.ticket__example {
+  display: flex;
+  justify-content: center;
+  margin-top: 35px;
+}
+
+.ticket__example h2, p {
+  text-align: center;
+  color: black;
+}
+
+.ticket__example h2 {
+  font-size: 20px;
+}
+
+hr {
+  border: 1px solid black;
+  max-width: 80%;
+  margin-bottom: 15px;
+}
+
+.mb {
+  margin-bottom: 35px;
+}
+
+.text__university-group {
+  display: flex;
+  justify-content: space-between;
+  max-width: 80%;
+  margin: 0 auto 35px;
+}
+
+.main__container {
+  display: flex;
+  width: 90%;
+  justify-content: center;
+
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.inner__container {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 90%;
+}
+
+/*.inner__container > * {*/
+/*  font: calc(calc(1vw + 1vh) / 1.5) 'Inter', sans-serif;*/
+/*  margin-bottom: calc(calc(1vw + 1vh) / 1.15);*/
+/*}*/
+
+
+.teachers {
+  display: flex;
+  justify-content: space-between;
+}
+
+.teachers > h1 {
+  font: calc(calc(1vw + 1vh) / 1.5) 'Inter', sans-serif;
+  margin: 0;
+}
+
+.questions li {
+  list-style-type: numeric;
+}

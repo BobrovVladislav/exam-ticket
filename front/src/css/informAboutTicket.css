@@ -1,0 +1,58 @@
+  .grid__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    align-self: center;
+
+  }
+  .ticket__name {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-bottom: 25px;
+  }
+
+  .ticket__name__text {
+    margin: 0;
+    font-size: calc(calc(1vw + 1vh) * 1.05);
+  }
+
+  .ticket__name__input {
+    background-color: rgba(222, 226, 234, 1);
+    border: none;
+    border-bottom: 3px solid rgba(64, 93, 145, 1);
+    outline: none;
+    height: max-content;
+    font-size: calc(calc(1vw + 1vh) * 1.05);
+    padding-left: 10px;
+  }
+
+  .container-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 15px 15px 15px;
+
+  }
+  .input__title {
+    margin-right: 15px;
+    font-size: 19px;
+    max-width: 250px;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+
+  .input {
+    width: 250px;
+    height: 35px;
+    padding: calc(calc(1vw + 1vh) * 0.3);
+    box-sizing: border-box;
+    background-color: rgba(222, 226, 234, 1);
+    outline-color: rgba(64, 93, 145, 1);
+    border: none;
+    font-size: calc(calc(1vw + 1vh) / 1.15);
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.25);
+    width: 100%;
+  }

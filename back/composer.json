@@ -1,0 +1,8 @@
+{
+    "name": "monolit/back",
+    "require": {
+        "phpoffice/phpword": "^0.17.0",
+      "ext-json": "*",
+        "mpdf/mpdf": "^8.2"
+    }
+}
